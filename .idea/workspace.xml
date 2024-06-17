@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fa244f4-630a-42bc-990e-71e7e928ad7a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/saxon/Saxon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/saxon/Saxon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/soldier/Soldier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/soldier/Soldier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/vikins/Vikings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/vikins/Vikings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/saxon/SaxonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/saxon/SaxonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/soldier/SoldierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/soldier/SoldierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/vikins/VikingsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/vikins/VikingsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/war/WarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/war/WarTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2i0T8iPHN2a0v3tR0QWAscxEesC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.SaxonTest.attack_should_receive_0_arguments.executor": "Run",
+    "JUnit.SaxonTest.attack_should_return_strength_property_of_the_Saxon.executor": "Run",
+    "JUnit.SaxonTest.damage_should_receive_1_arguments.executor": "Run",
+    "JUnit.SaxonTest.executor": "Run",
+    "JUnit.SaxonTest.should_inherit_from_Soldier (1).executor": "Run",
+    "JUnit.SaxonTest.should_inherit_from_Soldier.executor": "Run",
+    "JUnit.SaxonTest.should_receive_2_arguments.executor": "Run",
+    "JUnit.SaxonTest.should_receive_the_health_property_as_its_1st_argument.executor": "Run",
+    "JUnit.SaxonTest.should_receive_the_health_property_as_its_2st_argument.executor": "Run",
+    "JUnit.SaxonTest.should_remove_the_received_damage_from_the_health_property.executor": "Run",
+    "JUnit.SaxonTest.should_return_A_Saxon_has_died_in_combat_if_the_Saxon_dies.executor": "Run",
+    "JUnit.SaxonTest.should_return_A_Saxon_has_received_DAMAGE_points_of_damage_if_the_Saxon_is_still_alive.executor": "Run",
+    "JUnit.SoldierTest.attack_should_receive_0_arguments.executor": "Run",
+    "JUnit.SoldierTest.attack_should_return_a_integer.executor": "Run",
+    "JUnit.SoldierTest.attack_should_return_the_strength_property_of_the_Soldier.executor": "Run",
+    "JUnit.SoldierTest.damage_should_receive_1_arguments.executor": "Run",
+    "JUnit.SoldierTest.executor": "Run",
+    "JUnit.SoldierTest.should_receive_2_arguments.executor": "Run",
+    "JUnit.SoldierTest.should_receive_the_health_property_as_its_1st_argument.executor": "Run",
+    "JUnit.SoldierTest.should_receive_the_health_property_as_its_2st_argument.executor": "Run",
+    "JUnit.SoldierTest.should_remove_the_received_damage_from_the_health_property.executor": "Run",
+    "JUnit.VikingTest.should_inherit_from_Soldier (1).executor": "Run",
+    "JUnit.VikingTest.should_inherit_from_Soldier.executor": "Run",
+    "JUnit.VikingsTest.attack_should_receive_0_arguments.executor": "Run",
+    "JUnit.VikingsTest.attack_should_return_strength_property_of_the_Saxon.executor": "Run",
+    "JUnit.VikingsTest.battleCry_should_receive_0_arguments.executor": "Run",
+    "JUnit.VikingsTest.damage_should_receive_1_arguments.executor": "Run",
+    "JUnit.VikingsTest.executor": "Run",
+    "JUnit.VikingsTest.should_inherit_from_Soldier.executor": "Run",
+    "JUnit.VikingsTest.should_receive_3_arguments.executor": "Run",
+    "JUnit.VikingsTest.should_receive_the_health_property_as_its_1st_argument.executor": "Run",
+    "JUnit.VikingsTest.should_receive_the_health_property_as_its_2st_argument.executor": "Run",
+    "JUnit.VikingsTest.should_receive_the_health_property_as_its_3st_argument.executor": "Run",
+    "JUnit.VikingsTest.should_remove_the_received_damage_from_the_health_property.executor": "Run",
+    "JUnit.VikingsTest.should_return_NAME__has_died_in_act_of_combat_if_the_Viking_dies.executor": "Run",
+    "JUnit.VikingsTest.should_return_NAME_has_died_in_act_of_combat_if_the_Viking_dies.executor": "Run",
+    "JUnit.VikingsTest.should_return_NAME_has_received_DAMAGE_points_of_damage_if_the_Viking_is_still_alive.executor": "Run",
+    "JUnit.VikingsTest.should_return_Odin_Owns_You_All_.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/ADMIN/Desktop/Abello/bootcamp/Java/actividades/vkingo2/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.SaxonTest.should_return_A_Saxon_has_died_in_combat_if_the_Saxon_dies">
+    <configuration name="SaxonTest.attack_should_receive_0_arguments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vkingo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.saxon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.saxon" />
+      <option name="MAIN_CLASS_NAME" value="org.example.saxon.SaxonTest" />
+      <option name="METHOD_NAME" value="attack_should_receive_0_arguments" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaxonTest.damage_should_receive_1_arguments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vkingo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.saxon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.saxon" />
+      <option name="MAIN_CLASS_NAME" value="org.example.saxon.SaxonTest" />
+      <option name="METHOD_NAME" value="damage_should_receive_1_arguments" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaxonTest.should_remove_the_received_damage_from_the_health_property" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vkingo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.saxon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.saxon" />
+      <option name="MAIN_CLASS_NAME" value="org.example.saxon.SaxonTest" />
+      <option name="METHOD_NAME" value="should_remove_the_received_damage_from_the_health_property" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaxonTest.should_return_A_Saxon_has_died_in_combat_if_the_Saxon_dies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vkingo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.saxon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.saxon" />
+      <option name="MAIN_CLASS_NAME" value="org.example.saxon.SaxonTest" />
+      <option name="METHOD_NAME" value="should_return_A_Saxon_has_died_in_combat_if_the_Saxon_dies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaxonTest.should_return_A_Saxon_has_received_DAMAGE_points_of_damage_if_the_Saxon_is_still_alive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vkingo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.saxon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.saxon" />
+      <option name="MAIN_CLASS_NAME" value="org.example.saxon.SaxonTest" />
+      <option name="METHOD_NAME" value="should_return_A_Saxon_has_received_DAMAGE_points_of_damage_if_the_Saxon_is_still_alive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VikingsTest.should_return_NAME__has_died_in_act_of_combat_if_the_Viking_dies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vkingo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.vikins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.vikins" />
+      <option name="MAIN_CLASS_NAME" value="org.example.vikins.VikingsTest" />
+      <option name="METHOD_NAME" value="should_return_NAME__has_died_in_act_of_combat_if_the_Viking_dies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.viking in vkingo2" type="JUnit" factoryName="JUnit">
+      <module name="vkingo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.vikins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.vikins" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SaxonTest.should_return_A_Saxon_has_died_in_combat_if_the_Saxon_dies" />
+        <item itemvalue="JUnit.SaxonTest.should_return_A_Saxon_has_received_DAMAGE_points_of_damage_if_the_Saxon_is_still_alive" />
+        <item itemvalue="JUnit.SaxonTest.should_remove_the_received_damage_from_the_health_property" />
+        <item itemvalue="JUnit.SaxonTest.damage_should_receive_1_arguments" />
+        <item itemvalue="JUnit.SaxonTest.attack_should_receive_0_arguments" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fa244f4-630a-42bc-990e-71e7e928ad7a" name="Changes" comment="" />
+      <created>1718626339096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718626339096</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/soldier/Soldier.java</url>
+          <line>23</line>
+          <properties class="org.example.soldier.Soldier" method="receiveDamage">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/vikins/VikingsTest.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/saxon/SaxonTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/saxon/SaxonTest.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/saxon/Saxon.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
