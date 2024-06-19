@@ -88,7 +88,7 @@ Modifica el constructor de la clase `Viking` para que herede de la clase `Soldie
 
 #### método `battleCry()`
 
-[Puedes informarte sobre gritos de guerra, aquí](http://www.artofmanliness.com/2015/06/08/battle-cries/).
+[Puedes informarte sobre gritos de guerra, aquí](http://www.artofmanliness.com/2015/06/08/battle-cries/![img.png](img.png)).
 
 - debe ser una función
 - debe recibir **0 argumentos**
